@@ -1,4 +1,4 @@
-Check out [Mergery](https://github.com/apps/mergery), my PR Automerge App.
+Check out [Mergery](https://github.com/apps/mergery), my PR auto-merge app.
 
 No more waiting for CI to complete. 😌
 
